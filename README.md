@@ -1,0 +1,2 @@
+# QA-Engineer_Technical-Assignment_Answers_Partipan-C
+QA Engineer_Technical Assignment_Answers_Partipan C
